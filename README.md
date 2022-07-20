@@ -1,3 +1,29 @@
+  Chrome Web Extension that reads and writes to Holochain.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Chrome Extension
 
 ## Environment Setup
